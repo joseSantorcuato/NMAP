@@ -1,0 +1,11 @@
+README
+
+Instalación NMAP y auditoría redes, router
+José Santorcuato Tapia
+santorcuato76@gmail.com
+
+
+
+sudo apt-get install nmap
+
+sudo nmap -sP 19x.16x.x.1-254
